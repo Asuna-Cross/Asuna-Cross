@@ -16,7 +16,7 @@
 
 <h3 align="left">CodeWars</h3>
 <p align="left">
-  <img src="https://www.codewars.com/users/Asuna-Cross/badges/large">
+  <a href="https://www.codewars.com/users/Asuna-Cross" target="blank"><img src="https://www.codewars.com/users/Asuna-Cross/badges/large" alt="CodeWars"></a>
 </p>
 
 
