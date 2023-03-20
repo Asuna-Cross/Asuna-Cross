@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **The Odin Project**
 
-- 📝 My daily thoughts [can be found here](https://github.com/Asuna-Cross/Personal-Development-Blog)
+- 📝 Part serious goal setting, part adventure, part insanity - my daily development journal [can be found here](https://github.com/Asuna-Cross/Personal-Development-Blog)
 
 - ⚡ Fun fact **I used to be involved in the games industry, switching focus to security after a long break**
 
