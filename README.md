@@ -3,9 +3,9 @@
 <h3 align="center">A novice who enjoys figuring out how things work</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Asuna-Cross/Asuna-Cross/main/Lofi-girl.png">
 
-- 🌱 I’m currently learning **The Odin Project**
+- 🌱 I’m currently learning **Penetration Testing**
 
-- 📝 Part serious goal setting, part adventure, part insanity - my daily development journal [can be found here](https://github.com/Asuna-Cross/Personal-Development-Blog)
+- 📝 My blog that covers the technology I know as well as various soft skills [can be found here](https://asuna-cross.github.io/)
 
 - ⚡ Fun fact **I used to be involved in the games industry, switching focus to security after a long break**
 
