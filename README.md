@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Asuna-Cross/Asuna-Cross/main/Lofi-girl.png">
 
 - Currently updating all of my old repos and beginning to work on new projects after a long break
-- While your waiting, feel free to check out <a href="https://asuna-cross.github.io/">for writeups of my previous projects</a>
+- While your waiting, feel free to check out my blog <a href="https://asuna-cross.github.io/">for writeups of my previous projects</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
