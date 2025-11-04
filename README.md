@@ -3,11 +3,8 @@
 <h3 align="center">A novice who enjoys figuring out how things work</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Asuna-Cross/Asuna-Cross/main/Lofi-girl.png">
 
-- 🌱 I’m currently learning **Penetration Testing**
-
-- 📝 My blog that covers the technology I know as well as various soft skills [can be found here](https://asuna-cross.github.io/)
-
-- ⚡ Fun fact **I used to be involved in the games industry, switching focus to security after a long break**
+- Currently updating all of my old repos and beginning to work on new projects after a long break
+- While your waiting, feel free to check out <a href="https://asuna-cross.github.io/">for writeups of my previous projects</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
